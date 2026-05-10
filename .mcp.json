@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "airplanes-live": {
+            "command": "uv",
+            "args": [
+                "--directory",
+                "/home/dev/Documents/Airplanes.live/production/mcp",
+                "run",
+                "main.py"
+            ]
+        }
+    }
+}
